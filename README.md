@@ -25,3 +25,12 @@ I am a Computer Science student, collegiate student-athlete and aspiring softwar
 - **LinkedIn:** [linkedin.com/in/rasmuswesterlund](https://www.linkedin.com/in/rasmus-westerlund-8481673b1/)
 - **Portfolio:** [rasmuswesterlund.dev](https://github.com/Frasse007) (Portfolio Website In Progress)
 - **Open To:** Internship opportunities in Software Engineering, Cybersecurity, and Backend Development.
+
+## Beyond the Code
+
+- **Student-Athlete:** Play collegiate basketball; focused on athletic performance, competitive mindset and team leadership.
+- **Bilingual:** Fluent in both Swedish and English.
+- **Hardware Enthusiast:** Built custom liquid-cooled gaming-pcs and serviced laptops & workstations.
+
+---
+[![Rasmus' GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
