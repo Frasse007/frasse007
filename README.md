@@ -18,3 +18,10 @@ I am a Computer Science student, collegiate student-athlete and aspiring softwar
 -  **Airsoft Arsenal Web App:** Developing a custom web app using Node.js, Express, PostgreSQL, and WebGL to assist airsoft players with planning, packing and organizing their inventory.
 -  **Homelab Infrastructure:** Self-hosting local services (pfSense firewall, Crafty Controller, Tandoor) using Proxmox VE and Docker containers.
 -  **Current Learning Goals:** Deepening multivariable calculus & linear algebra concepts for advanced algorithm optimization and database query performance. Continuing studies about incident response & system hardening to further advance my career in the field of cybersecurity.
+
+## Connect With Me
+
+- **Email:** `rasmus.westerlund03@gmail.com`
+- **LinkedIn:** [linkedin.com/in/rasmuswesterlund](https://www.linkedin.com/in/rasmus-westerlund-8481673b1/)
+- **Portfolio:** [rasmuswesterlund.dev](https://github.com/Frasse007) (Portfolio Website In Progress)
+- **Open To:** Internship opportunities in Software Engineering, Cybersecurity, and Backend Development.
