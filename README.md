@@ -11,3 +11,10 @@ I am a Computer Science student, collegiate student-athlete and aspiring softwar
 - **Backend & Frameworks:** `Express.js` • `Flask` • `Django` • `Sequelize` • `REST APIs`
 - **DevOps & Infrastructure:** `Proxmox VE` • `pfSense` • `Docker` • `Nginx` • `WireGuard` • `Git/GitHub`
 - **Tools & Software:** `Postman` • `Blender` • `Linux (Debian/Ubuntu)` • `Cellebrite`
+
+## Projects & Focus Areas
+
+-  **Personal Portfolio Website:** Building a personal website used to showcase skills, projects and achievments.
+-  **Airsoft Arsenal Web App:** Developing a custom web app using Node.js, Express, PostgreSQL, and WebGL to assist airsoft players with planning, packing and organizing their inventory.
+-  **Homelab Infrastructure:** Self-hosting local services (pfSense firewall, Crafty Controller, Tandoor) using Proxmox VE and Docker containers.
+-  **Current Learning Goals:** Deepening multivariable calculus & linear algebra concepts for advanced algorithm optimization and database query performance. Continuing studies about incident response & system hardening to further advance my career in the field of cybersecurity.
